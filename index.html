@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="http://yastatic.net/jquery/2.1.1/jquery.min.js"></script>
+    <script src="http://api-maps.yandex.ru/2.0-stable/?load=package.standard&lang=ru-RU" type="text/javascript"></script>
+    <script type="text/javascript">
+    </script>
+</head>
+<body>
+    <!-- <h1><span>выберите</span> город для того чтобы узнать <span>погоду</span></h1> -->
+    <div class="user-city">Ваш город:<span class="user-city__item"></span></div> <div id="user-region"></div> <div id="user-
+    country"></div>
+    <h1><span>Прогноз</span> погоды</h1>
+    <div class="wrapper">
+      <form>
+        <input class="chosen-value" type="text" value="" placeholder="Выберите город">
+        <ul class="value-list">
+
+        </ul>
+      </form>
+      <div class="weather-now">
+        <div class="now">Сегодня</div>
+        <hr>
+        <div class="date-day small">---</div>
+        <div class="date-time small">---</div>
+        <div class="city">---</div>
+        <div class="temp">---</div>
+        <div class="img">---</div>
+        <div class="weather">---</div>
+      </div>
+    </div>
+    <div class="weather-week">
+      <div class="weather-week__item first item1">
+        <div class="date small item">---</div>
+        <div class="time small item">---</div>
+        <div class="temp item">---</div>
+        <div class="img item">---</div>
+        <div class="weather">---</div>
+      </div>
+      <div class="weather-week__item item2">
+        <div class="date small item">---</div>
+        <div class="time small item">---</div>
+        <div class="temp item">---</div>
+        <div class="img item">---</div>
+        <div class="weather item">---</div>
+      </div>
+      <div class="weather-week__item item3">
+        <div class="date small item">---</div>
+        <div class="time small item">---</div>
+        <div class="temp item">---</div>
+        <div class="img item">---</div>
+        <div class="weather item">---</div>
+      </div>
+      <div class="weather-week__item last item4">
+        <div class="date small item">---</div>
+        <div class="time small item">---</div>
+        <div class="temp item">---</div>
+        <div class="img item">---</div>
+        <div class="weather item">---</div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
