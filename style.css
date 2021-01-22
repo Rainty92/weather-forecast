@@ -33,6 +33,10 @@
   border: 1px solid white;
   border-radius: 0 15px 15px 0;
   background: #3f82e6;
+  -webkit-border-radius: 0 15px 15px 0;
+  -moz-border-radius: 0 15px 15px 0;
+  -ms-border-radius: 0 15px 15px 0;
+  -o-border-radius: 0 15px 15px 0;
 }
 
 .weather-now div {
@@ -92,10 +96,18 @@
 
 .weather-week .first {
   border-radius: 15px 0 0 15px;
+  -webkit-border-radius: 15px 0 0 15px;
+  -moz-border-radius: 15px 0 0 15px;
+  -ms-border-radius: 15px 0 0 15px;
+  -o-border-radius: 15px 0 0 15px;
 }
 
 .weather-week .last {
   border-radius: 0 15px 15px 0;
+  -webkit-border-radius: 0 15px 15px 0;
+  -moz-border-radius: 0 15px 15px 0;
+  -ms-border-radius: 0 15px 15px 0;
+  -o-border-radius: 0 15px 15px 0;
 }
 
 .weather-week__item .time {
@@ -111,7 +123,6 @@ body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 100vh;
   align-items: center;
   justify-content: flex-start;
   text-transform: uppercase;
@@ -166,6 +177,14 @@ form {
   border-radius: 15px 0 0 0;
   transition: 0.3s ease-in-out;
   border: 1px solid white;
+  -webkit-border-radius: 15px 0 0 0;
+  -moz-border-radius: 15px 0 0 0;
+  -ms-border-radius: 15px 0 0 0;
+  -o-border-radius: 15px 0 0 0;
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -ms-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
 }
 .chosen-value::-webkit-input-placeholder {
   color: #333;
@@ -195,6 +214,14 @@ form {
   max-height: 0;
   transition: 0.3s ease-in-out;
   border-radius: 0 0 0 15px;
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -ms-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  -webkit-border-radius: 0 0 0 15px;
+  -moz-border-radius: 0 0 0 15px;
+  -ms-border-radius: 0 0 0 15px;
+  -o-border-radius: 0 0 0 15px;
 }
 .value-list.open {
   max-height: 336px;
@@ -211,6 +238,10 @@ form {
   cursor: pointer;
   transition: background-color 0.3s;
   opacity: 1;
+  -webkit-transition: background-color 0.3s;
+  -moz-transition: background-color 0.3s;
+  -ms-transition: background-color 0.3s;
+  -o-transition: background-color 0.3s;
 }
 .value-list li:hover {
   background-color: #84b7f1;
@@ -229,15 +260,27 @@ form {
 
   .weather-now {
     border-radius: 0 0 15px 15px;
-  }
+    -webkit-border-radius: 0 0 15px 15px;
+    -moz-border-radius: 0 0 15px 15px;
+    -ms-border-radius: 0 0 15px 15px;
+    -o-border-radius: 0 0 15px 15px;
+}
 
   .chosen-value {
     border-radius: 15px 15px 0 0;
-  }
+    -webkit-border-radius: 15px 15px 0 0;
+    -moz-border-radius: 15px 15px 0 0;
+    -ms-border-radius: 15px 15px 0 0;
+    -o-border-radius: 15px 15px 0 0;
+}
 
   .value-list {
     border-radius: 0 0 15px 15px;
-  }
+    -webkit-border-radius: 0 0 15px 15px;
+    -moz-border-radius: 0 0 15px 15px;
+    -ms-border-radius: 0 0 15px 15px;
+    -o-border-radius: 0 0 15px 15px;
+}
 
   .user-city .user-city__item {
     display: block;
@@ -246,15 +289,27 @@ form {
 @media (max-width: 880px) {
   .weather-week__item {
     border-radius: 15px;
-  }
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
 
   .weather-week .first {
     border-radius: 15px;
-  }
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
 
   .weather-week .last {
     border-radius: 15px;
-  }
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
 
   .value-list.open {
     max-height: 390px;
