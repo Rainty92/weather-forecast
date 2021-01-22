@@ -1,0 +1,117 @@
+[
+    {
+        "key": "Clear sky",
+        "value": "Чистое небо",
+        "imgDay": "img/clearSkyNight.png",
+        "imgNight": "img/clearSkyDay.png"
+    },
+    {
+        "key": "Clear",
+        "value": "Чистое небо",
+        "imgDay": "img/clearSkyDay.png",
+        "imgNight": "img/clearSkyNight.png"
+    },
+    {
+        "key": "Clouds",
+        "value": "Облачно",
+        "imgDay": "img/cloudsDayNight.png",
+        "imgNight": "img/cloudsDayNight.png"
+    },
+    {
+        "key": "Few clouds",
+        "value": "Облачно с прояснениями",
+        "imgDay": "img/smallCloudsDay.png",
+        "imgNight": "img/smallCloudsNight.png"
+    },
+    {
+        "key": "Scattered clouds",
+        "value": "Малооблачно",
+        "imgDay": "img/smallCloudsDay.png",
+        "imgNight": "img/smallCloudsNight.png"
+    },
+    {
+        "key": "Shower rain",
+        "value": "Ливень",
+        "imgDay": "img/showerRain.png",
+        "imgNight": "img/showerRain.png"
+    },
+    {
+        "key": "Rain",
+        "value": "Дождь",
+        "imgDay": "img/rainDay.png",
+        "imgNight": "img/rainNight.png"
+    },
+    {
+        "key": "Thunderstorm",
+        "value": "Ливень с грозой",
+        "imgDay": "img/thunderstorm.png",
+        "imgNight": "img/thunderstorm.png"
+    },
+    {
+        "key": "Snow",
+        "value": "Снег",
+        "imgDay": "img/snowDay.png",
+        "imgNight": "img/snowNight.png"
+    },
+    {
+        "key": "Mist",
+        "value": "Туман",
+        "imgDay": "img/mistDayNight.png",
+        "imgNight": "img/mistDayNight.png"
+    },
+    {
+        "key": "Drizzle",
+        "value": "Морось",
+        "imgDay": "img/drizzle.png",
+        "imgNight": "img/drizzle.png"
+    },
+    {
+        "key": "Smoke",
+        "value": "Дым",
+        "imgDay": "img/smoke.png",
+        "imgNight": "img/smoke.png"
+    },
+    {
+        "key": "Haze",
+        "value": "Легкий туман",
+        "imgDay": "img/hazeDay.png",
+        "imgNight": "img/hazeNight.png"
+    },
+    {
+        "key": "Dust",
+        "value": "Пыль",
+        "imgDay": "img/sand.png",
+        "imgNight": "img/sand.png"
+    },
+    {
+        "key": "Fog",
+        "value": "Туман",
+        "imgDay": "img/mistDayNight.png",
+        "imgNight": "img/mistDayNight.png"
+    },
+    {
+        "key": "Sand",
+        "value": "Песок",
+        "imgDay": "img/sand.png",
+        "imgNight": "img/sand.png"
+    },
+    {
+        "key": "Squall",
+        "value": "Шквал",
+        "imgDay": "img/squallDay.png",
+        "imgNight": "img/squallDaypng"
+    },
+    {
+        "key": "Ash",
+        "value": "Пепел",
+        "imgDay": "img/sand.png",
+        "imgNight": "img/sand.png"
+    },
+    {
+        "key": "Tornado",
+        "value": "Торнадо",
+        "imgDay": "img/smoke.png",
+        "imgNight": "img/smoke.png"
+    }
+
+]

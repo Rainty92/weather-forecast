@@ -9,13 +9,15 @@
 .user-city {
   color: white;
   margin-top: 20px;
+  text-align: center;
 }
 
 .wrapper {
+  margin: 10px;
   margin-top: 2vh;
   display: flex;
-  max-width: 75vh;
-  max-height: 400px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .weather-now {
@@ -23,11 +25,11 @@
   min-width: 340px;
   color: white;
   display: flex;
+  margin: 0 10px 0 10px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   font-size: 20px;
-  margin-left: 20px;
   border: 1px solid white;
   border-radius: 0 15px 15px 0;
   background: #3f82e6;
@@ -112,7 +114,6 @@ body {
   height: 100vh;
   align-items: center;
   justify-content: flex-start;
-  font-family: "Ek Mukta";
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 4px;
@@ -141,7 +142,8 @@ h1 span {
 
 form {
   position: relative;
-  width: 25rem;
+  width: 21.25rem;
+  margin: 0 10px 0 10px;
 }
 
 .chosen-value,
@@ -157,12 +159,13 @@ form {
   font-weight: 600;
   letter-spacing: 4px;
   height: 3rem;
-  font-size: 1rem;
+  font-size: 0.9rem;
   padding: 1rem;
   background-color: #FAFCFD;
   border: 3px solid transparent;
   border-radius: 15px 0 0 0;
   transition: 0.3s ease-in-out;
+  border: 1px solid white;
 }
 .chosen-value::-webkit-input-placeholder {
   color: #333;
@@ -202,7 +205,7 @@ form {
   height: 3rem;
   background-color: #9edfff;
   padding: 1rem;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   display: flex;
   align-items: center;
   cursor: pointer;
@@ -217,4 +220,43 @@ form {
   overflow: hidden;
   padding: 0;
   opacity: 0;
+}
+
+@media (max-width: 739px) {
+  .weather-now {
+    margin-top: 5.5vh;
+  }
+
+  .weather-now {
+    border-radius: 0 0 15px 15px;
+  }
+
+  .chosen-value {
+    border-radius: 15px 15px 0 0;
+  }
+
+  .value-list {
+    border-radius: 0 0 15px 15px;
+  }
+
+  .user-city .user-city__item {
+    display: block;
+  }
+}
+@media (max-width: 880px) {
+  .weather-week__item {
+    border-radius: 15px;
+  }
+
+  .weather-week .first {
+    border-radius: 15px;
+  }
+
+  .weather-week .last {
+    border-radius: 15px;
+  }
+
+  .value-list.open {
+    max-height: 390px;
+  }
 }
