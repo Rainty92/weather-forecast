@@ -2640,7 +2640,7 @@
   },
   {
     "dockey": "kotelnich",
-    "name-en": "Kotelnich",
+    "name-en": "Kotel'nich",
     "name-ru": "Котельнич",
     "Federal subject": "Kirov Oblast",
     "Federal subject as dockey": "kirov-oblast"
@@ -2654,7 +2654,7 @@
   },
   {
     "dockey": "kotelnikovo",
-    "name-en": "Kotelnikovo",
+    "name-en": "Kotelnikowo",
     "name-ru": "Котельниково",
     "Federal subject": "Volgograd Oblast",
     "Federal subject as dockey": "volgograd-oblast"
@@ -2703,7 +2703,7 @@
   },
   {
     "dockey": "kozelsk",
-    "name-en": "Kozelsk",
+    "name-en": "Kozel'sk",
     "name-ru": "Козельск",
     "Federal subject": "Kaluga Oblast",
     "Federal subject as dockey": "kaluga-oblast"
@@ -2717,7 +2717,7 @@
   },
   {
     "dockey": "kozmodemyansk",
-    "name-en": "Kozmodemyansk",
+    "name-en": "Koz'modem'yansk",
     "name-ru": "Козьмодемьянск",
     "Federal subject": "Republic of Mari El",
     "Federal subject as dockey": "republic-of-mari-el"
@@ -2731,7 +2731,7 @@
   },
   {
     "dockey": "krasnoarmeysk",
-    "name-en": "Krasnoarmeysk",
+    "name-en":  "Krasnoarmiys'k",
     "name-ru": "Красноармейск",
     "Federal subject": "Moscow Oblast",
     "Federal subject as dockey": "moscow-oblast"
@@ -2815,7 +2815,7 @@
   },
   {
     "dockey": "krasnoyarsk",
-    "name-en": "Krasnoyarsk",
+    "name-en": "Krasnoural'sk",
     "name-ru": "Красноярск",
     "Federal subject": "Krasnoyarsk Kray",
     "Federal subject as dockey": "krasnoyarsk-kray"
@@ -2969,7 +2969,7 @@
   },
   {
     "dockey": "kurilsk",
-    "name-en": "Kurilsk",
+    "name-en": "Kuril'sk",
     "name-ru": "Курильск",
     "Federal subject": "Sakhalin Oblast",
     "Federal subject as dockey": "sakhalin-oblast"
@@ -3102,7 +3102,7 @@
   },
   {
     "dockey": "lakhdenpokhya",
-    "name-en": "Lakhdenpokhya",
+    "name-en":  "Lakhdenpokh'ya",
     "name-ru": "Лахденпохья",
     "Federal subject": "Republic of Karelia",
     "Federal subject as dockey": "republic-of-karelia"
@@ -3123,7 +3123,7 @@
   },
   {
     "dockey": "lebedyan",
-    "name-en": "Lebedyan",
+    "name-en":  "Lebedyan'",
     "name-ru": "Лебедянь",
     "Federal subject": "Lipetsk Oblast",
     "Federal subject as dockey": "lipetsk-oblast"
@@ -3186,14 +3186,14 @@
   },
   {
     "dockey": "lgov",
-    "name-en": "Lgov",
+    "name-en": "L'govskiy",
     "name-ru": "Льгов",
     "Federal subject": "Kursk Oblast",
     "Federal subject as dockey": "kursk-oblast"
   },
   {
     "dockey": "likhoslavl",
-    "name-en": "Likhoslavl",
+    "name-en":  "Likhoslavl'",
     "name-ru": "Лихославль",
     "Federal subject": "Tver Oblast",
     "Federal subject as dockey": "tver-oblast"
@@ -3305,7 +3305,7 @@
   },
   {
     "dockey": "lysva",
-    "name-en": "Lysva",
+    "name-en": "Lys'va",
     "name-ru": "Лысьва",
     "Federal subject": "Perm Kray",
     "Federal subject as dockey": "perm-kray"
@@ -3319,7 +3319,7 @@
   },
   {
     "dockey": "lyuban",
-    "name-en": "Lyuban",
+    "name-en": "Lyuban'",
     "name-ru": "Любань",
     "Federal subject": "Leningrad Oblast",
     "Federal subject as dockey": "leningrad-oblast"
@@ -3375,7 +3375,7 @@
   },
   {
     "dockey": "makaryev",
-    "name-en": "Makaryev",
+    "name-en": "Makar'yev",
     "name-ru": "Макарьев",
     "Federal subject": "Kostroma Oblast",
     "Federal subject as dockey": "kostroma-oblast"
@@ -3417,7 +3417,7 @@
   },
   {
     "dockey": "maloarkhangelsk",
-    "name-en": "Maloarkhangelsk",
+    "name-en": "Maloarkhangel'sk",
     "name-ru": "Малоархангельск",
     "Federal subject": "Orel Oblast",
     "Federal subject as dockey": "orel-oblast"
@@ -3494,14 +3494,14 @@
   },
   {
     "dockey": "medvezhyegorsk",
-    "name-en": "Medvezhyegorsk",
+    "name-en": "Medvezh'yegorsk",
     "name-ru": "Медвежьегорск",
     "Federal subject": "Republic of Karelia",
     "Federal subject as dockey": "republic-of-karelia"
   },
   {
     "dockey": "medyn",
-    "name-en": "Medyn",
+    "name-en": "Medyn'",
     "name-ru": "Медынь",
     "Federal subject": "Kaluga Oblast",
     "Federal subject as dockey": "kaluga-oblast"
@@ -3550,7 +3550,7 @@
   },
   {
     "dockey": "mezen",
-    "name-en": "Mezen",
+    "name-en": "Mezen'",
     "name-ru": "Мезень",
     "Federal subject": "Arkhangelsk Oblast",
     "Federal subject as dockey": "arkhangelsk-oblast"
@@ -3620,7 +3620,7 @@
   },
   {
     "dockey": "mikun",
-    "name-en": "Mikun",
+    "name-en": "Mikun'",
     "name-ru": "Микунь",
     "Federal subject": "Komi Republic",
     "Federal subject as dockey": "komi-republic"
@@ -3697,7 +3697,7 @@
   },
   {
     "dockey": "mosalsk",
-    "name-en": "Mosalsk",
+    "name-en": "Mosal'sk",
     "name-ru": "Мосальск",
     "Federal subject": "Kaluga Oblast",
     "Federal subject as dockey": "kaluga-oblast"
@@ -3816,7 +3816,7 @@
   },
   {
     "dockey": "nalchik",
-    "name-en": "Nalchik",
+    "name-en": "Nal'chik",
     "name-ru": "Нальчик",
     "Federal subject": "Kabardino-Balkarian Republic",
     "Federal subject as dockey": "kabardino-balkarian-republic"
@@ -3892,8 +3892,8 @@
     "Federal subject as dockey": "omsk-oblast"
   },
   {
-    "dockey": "neftegorsk,-samara-oblast",
-    "name-en": "Neftegorsk, Samara Oblast",
+    "dockey": "neftegorsk",
+    "name-en": "Neftegorsk",
     "name-ru": "Нефтегорск",
     "Federal subject": "Samara Oblast",
     "Federal subject as dockey": "samara-oblast"
@@ -3963,14 +3963,14 @@
   },
   {
     "dockey": "nevel",
-    "name-en": "Nevel",
+    "name-en": "Nevel'",
     "name-ru": "Невель",
     "Federal subject": "Pskov Oblast",
     "Federal subject as dockey": "pskov-oblast"
   },
   {
     "dockey": "nevelsk",
-    "name-en": "Nevelsk",
+    "name-en": "Nevel'sk",
     "name-ru": "Невельск",
     "Federal subject": "Sakhalin Oblast",
     "Federal subject as dockey": "sakhalin-oblast"
@@ -3984,7 +3984,7 @@
   },
   {
     "dockey": "nevyansk",
-    "name-en": "Nevyansk",
+    "name-en": "Nev'yansk",
     "name-ru": "Невьянск",
     "Federal subject": "Sverdlovsk Oblast",
     "Federal subject as dockey": "sverdlovsk-oblast"
@@ -4012,7 +4012,7 @@
   },
   {
     "dockey": "nikolsk",
-    "name-en": "Nikolsk",
+    "name-en": "Nikol'sk",
     "name-ru": "Никольск",
     "Federal subject": "Vologda Oblast",
     "Federal subject as dockey": "vologda-oblast"
@@ -4110,7 +4110,7 @@
   },
   {
     "dockey": "norilsk",
-    "name-en": "Norilsk",
+    "name-en": "Noril'sk",
     "name-ru": "Норильск",
     "Federal subject": "Krasnoyarsk Kray",
     "Federal subject as dockey": "krasnoyarsk-kray"
@@ -4250,14 +4250,14 @@
   },
   {
     "dockey": "novosil",
-    "name-en": "Novosil",
+    "name-en": "Novosil'",
     "name-ru": "Новосиль",
     "Federal subject": "Orel Oblast",
     "Federal subject as dockey": "orel-oblast"
   },
   {
     "dockey": "novosokolniki",
-    "name-en": "Novosokolniki",
+    "name-en": "Novosokol'niki",
     "name-ru": "Новосокольники",
     "Federal subject": "Pskov Oblast",
     "Federal subject as dockey": "pskov-oblast"
@@ -4271,14 +4271,14 @@
   },
   {
     "dockey": "novoulyanovsk",
-    "name-en": "Novoulyanovsk",
+    "name-en": "Novoul'yanovsk",
     "name-ru": "Новоульяновск",
     "Federal subject": "Ulyanovsk Oblast",
     "Federal subject as dockey": "ulyanovsk-oblast"
   },
   {
     "dockey": "novouralsk",
-    "name-en": "Novouralsk",
+    "name-en": "Novoural'sk",
     "name-ru": "Новоуральск",
     "Federal subject": "Sverdlovsk Oblast",
     "Federal subject as dockey": "sverdlovsk-oblast"
@@ -4390,7 +4390,7 @@
   },
   {
     "dockey": "oboyan",
-    "name-en": "Oboyan",
+    "name-en": "Oboyan'",
     "name-ru": "Обоянь",
     "Federal subject": "Kursk Oblast",
     "Federal subject as dockey": "kursk-oblast"
@@ -4600,7 +4600,7 @@
   },
   {
     "dockey": "ozherelye",
-    "name-en": "Ozherelye",
+    "name-en": "Ozherel'ye",
     "name-ru": "Ожерелье",
     "Federal subject": "Moscow Oblast",
     "Federal subject as dockey": "moscow-oblast"
@@ -4705,7 +4705,7 @@
   },
   {
     "dockey": "pervomaysk",
-    "name-en": "Pervomaysk",
+    "name-en":  "Pervomays'k",
     "name-ru": "Первомайск",
     "Federal subject": "Nizhny Novgorod Oblast",
     "Federal subject as dockey": "nizhny-novgorod-oblast"
@@ -4733,7 +4733,7 @@
   },
   {
     "dockey": "petropavlovsk-kamchatsky",
-    "name-en": "Petropavlovsk-Kamchatsky",
+    "name-en": "Petropavlovsk-Kamchatskiy",
     "name-ru": "Петропавловск-Камчатский",
     "Federal subject": "Kamchatka Kray",
     "Federal subject as dockey": "kamchatka-kray"
@@ -4852,7 +4852,7 @@
   },
   {
     "dockey": "podporozhye",
-    "name-en": "Podporozhye",
+    "name-en":  "Podporozh'ye",
     "name-ru": "Подпорожье",
     "Federal subject": "Leningrad Oblast",
     "Federal subject as dockey": "leningrad-oblast"
@@ -4936,7 +4936,7 @@
   },
   {
     "dockey": "poshekhonye",
-    "name-en": "Poshekhonye",
+    "name-en":  "Poshekhon'ye",
     "name-ru": "Пошехонье",
     "Federal subject": "Yaroslavl Oblast",
     "Federal subject as dockey": "yaroslavl-oblast"
@@ -4957,7 +4957,7 @@
   },
   {
     "dockey": "primorsk",
-    "name-en": "Primorsk",
+    "name-en": "Prymors'k",
     "name-ru": "Приморск",
     "Federal subject": "Leningrad Oblast",
     "Federal subject as dockey": "leningrad-oblast"
@@ -4992,7 +4992,7 @@
   },
   {
     "dockey": "prokopyevsk",
-    "name-en": "Prokopyevsk",
+    "name-en": "Prokop'yevsk",
     "name-ru": "Прокопьевск",
     "Federal subject": "Kemerovo Oblast",
     "Federal subject as dockey": "kemerovo-oblast"
@@ -5153,21 +5153,21 @@
   },
   {
     "dockey": "roshal",
-    "name-en": "Roshal",
+    "name-en":  "Roshal'",
     "name-ru": "Рошаль",
     "Federal subject": "Moscow Oblast",
     "Federal subject as dockey": "moscow-oblast"
   },
   {
     "dockey": "roslavl",
-    "name-en": "Roslavl",
+    "name-en": "Roslavl'",
     "name-ru": "Рославль",
     "Federal subject": "Smolensk Oblast",
     "Federal subject as dockey": "smolensk-oblast"
   },
   {
     "dockey": "rossosh",
-    "name-en": "Rossosh",
+    "name-en": "Rossosh'",
     "name-ru": "Россошь",
     "Federal subject": "Voronezh Oblast",
     "Federal subject as dockey": "voronezh-oblast"
@@ -5251,7 +5251,7 @@
   },
   {
     "dockey": "rylsk",
-    "name-en": "Rylsk",
+    "name-en": "Ryl'sk",
     "name-ru": "Рыльск",
     "Federal subject": "Kursk Oblast",
     "Federal subject as dockey": "kursk-oblast"
@@ -5300,7 +5300,7 @@
   },
   {
     "dockey": "salsk",
-    "name-en": "Salsk",
+    "name-en": "Sal'sk",
     "name-ru": "Сальск",
     "Federal subject": "Rostov Oblast",
     "Federal subject as dockey": "rostov-oblast"
@@ -5384,7 +5384,7 @@
   },
   {
     "dockey": "seltso",
-    "name-en": "Seltso",
+    "name-en": "Sel’tso",
     "name-ru": "Сельцо",
     "Federal subject": "Bryansk Oblast",
     "Federal subject as dockey": "bryansk-oblast"
@@ -5475,7 +5475,7 @@
   },
   {
     "dockey": "severobaykalsk",
-    "name-en": "Severobaykalsk",
+    "name-en":  "Severobaykal'sk",
     "name-ru": "Северобайкальск",
     "Federal subject": "Republic of Buryatia",
     "Federal subject as dockey": "republic-of-buryatia"
@@ -5489,7 +5489,7 @@
   },
   {
     "dockey": "severo-kurilsk",
-    "name-en": "Severo-Kurilsk",
+    "name-en": "Severo-Kuril'sk",
     "name-ru": "Северо-Курильск",
     "Federal subject": "Sakhalin Oblast",
     "Federal subject as dockey": "sakhalin-oblast"

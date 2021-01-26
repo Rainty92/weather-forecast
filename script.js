@@ -28,7 +28,6 @@ fetch('./json/city.json')
 
 
  function getCity (response) {
-
     city = response.map(item => ({
             cityEN: item['name-en'],
             cityRU: item['name-ru']
@@ -37,7 +36,7 @@ fetch('./json/city.json')
     city.sort(sortArr)
 
     for(let i = 0; i < city.length; i++) {
-        dropdown.insertAdjacentHTML('beforeEnd',`<li data-value='${city[i].cityEN}'>${city[i].cityRU}</li>`)
+        dropdown.insertAdjacentHTML('beforeEnd',`<li data-value="${city[i].cityEN}">${city[i].cityRU}</li>`)
 
     }
     let dropdownArray = document.querySelectorAll('li');
@@ -90,7 +89,8 @@ function addInputValue(dropdownArray){
         item.addEventListener('click', (evt) => {
             inputField.value = item.textContent;  
             let valDataAttr = item.getAttribute("data-value");
-
+            // let valDataAttr = item.dataset.value;
+            console.log(valDataAttr)
             getConditions(valDataAttr) // ---------------------------------------------------callApiWeather
    
           dropdownArray.forEach(dropdown => {
@@ -150,7 +150,7 @@ function getApiWeather(response, valDataAttr){
 //---------------------------------------------------getWeather
 
 function getWeatherNow(response, conditions) {
-
+    console.log(response)
 
     let newCity = city.filter(item => item.cityEN == response.name) 
     
